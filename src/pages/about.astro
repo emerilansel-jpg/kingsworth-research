@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About · Kingsworth Research">
+<style>
+  .page-header { padding: 3rem 0; border-bottom:1px solid var(--color-border); margin-bottom:2rem; }
+  .content-section { padding: 1.5rem 0; }
+  .content-section p { max-width:700px; line-height:1.8; }
+  .values-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1.5rem; margin-top:1.5rem; }
+  .value-card { background:var(--color-surface); border:1px solid var(--color-border); border-radius:var(--radius); padding:1.5rem; }
+  .value-card h4 { font-family:var(--font-heading); color:var(--color-primary); margin-bottom:0.5rem; }
+</style>
+
+<div class="container">
+  <div class="page-header">
+    <h1>About Us</h1>
+    <p style="color:var(--color-muted);margin-top:0.5rem;">Our mission, history, and commitment to independent analysis.</p>
+  </div>
+
+  <div class="content-section">
+    <p>Kingsworth Research was founded in Manchester in 2019 with a single premise: enterprise buyers deserve market analysis that is rigorously evidence-based and entirely free of commercial influence.</p>
+    <p style="margin-top:1rem;">Our team includes former analysts from Gartner, IDC, Forrester, and Accenture, combined with practitioners who have led multi-million-pound technology programmes across financial services, healthcare, and government sectors.</p>
+  </div>
+
+  <div class="content-section">
+    <h2 style="font-size:1.5rem;">Core Principles</h2>
+    <div class="values-grid">
+      <div class="value-card">
+        <h4>Evidence-Driven</h4>
+        <p style="font-size:0.95rem;color:var(--color-muted);">Every conclusion we draw must be traceable to documented, verifiable sources.</p>
+      </div>
+      <div class="value-card">
+        <h4>Zero Vendor Influence</h4>
+        <p style="font-size:0.95rem;color:var(--color-muted);">We accept no sponsorship, advertising, or compensation from organisations featured in our reports.</p>
+      </div>
+      <div class="value-card">
+        <h4>Fully Transparent</h4>
+        <p style="font-size:0.95rem;color:var(--color-muted);">Our methodology, limitations, and correction history are published openly.</p>
+      </div>
+      <div class="value-card">
+        <h4>Peer Reviewed</h4>
+        <p style="font-size:0.95rem;color:var(--color-muted);">All substantive work undergoes review by named external experts before publication.</p>
+      </div>
+    </div>
+  </div>
+</div>
+</BaseLayout>

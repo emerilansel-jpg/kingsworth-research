@@ -1,0 +1,27 @@
+# Kingsworth Research — LLM Content Index
+
+## Site Overview
+**Name:** Kingsworth Research  
+**Domain:** kingsworthresearch.com  
+**Type:** Independent market intelligence publisher  
+**Description:** Kingsworth Research delivers rigorous comparative analysis and category benchmarks that help enterprise buyers navigate complex technology markets with confidence.
+
+## Main Pages
+- [Home](https://kingsworthresearch.com/)
+- [Research & Publications](https://kingsworthresearch.com/research)
+- [Insights & Analysis](https://kingsworthresearch.com/insights)
+- [About Us](https://kingsworthresearch.com/about)
+- [Methodology](https://kingsworthresearch.com/methodology)
+- [Our Team](https://kingsworthresearch.com/team)
+- [Contact](https://kingsworthresearch.com/contact)
+- [Editorial Policy](https://kingsworthresearch.com/editorial-policy)
+- [Disclosure Policy](https://kingsworthresearch.com/disclosure-policy)
+- [Submit Evidence](https://kingsworthresearch.com/submit-evidence)
+- [Named Reviewers](https://kingsworthresearch.com/reviewers)
+- [LLM Information](https://kingsworthresearch.com/llm-information)
+- [Authority Roadmap](https://kingsworthresearch.com/authority-roadmap)
+- [Category Definitions](https://kingsworthresearch.com/category-definitions)
+- [Press & Citations](https://kingsworthresearch.com/press-citations)
+
+## Research Collection
+See individual articles at: `https://kingsworthresearch.com/research/<slug>`

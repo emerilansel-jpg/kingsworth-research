@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Reviewers · Kingsworth Research">
+<style>
+  .page-header { padding: 3rem 0; border-bottom:1px solid var(--color-border); margin-bottom:2rem; }
+  .reviewer-card { background:var(--color-surface); border:1px solid var(--color-border); border-radius:var(--radius); padding:1.5rem; margin-bottom:1rem; }
+  .reviewer-card h3 { font-family:var(--font-heading); color:var(--color-primary); }
+  .reviewer-card p { color:var(--color-muted); font-size:0.95rem; margin-top:0.25rem; }
+</style>
+
+<div class="container">
+  <div class="page-header">
+    <h1>Named Reviewers</h1>
+    <p style="color:var(--color-muted);margin-top:0.5rem;">External experts who review our reports before publication.</p>
+  </div>
+  <p style="max-width:700px; color:var(--color-muted); line-height:1.8;">Every substantive report is reviewed by at least one named external expert. Our advisory panel comprises professionals with deep experience across enterprise technology markets:</p>
+  <div class="reviewer-card">
+    <h3>Prof. Amara Nwosu</h3>
+    <p>Professor of Information Systems, University of Manchester · Specialises in enterprise architecture evaluation and technology adoption frameworks</p>
+  </div>
+  <div class="reviewer-card">
+    <h3>Robert Kellerman</h3>
+    <p>Former VP of Procurement, HSBC Global Banking · 25 years in enterprise software procurement with expertise in cloud infrastructure and security platforms</p>
+  </div>
+  <div class="reviewer-card">
+    <h3>Dr. Ingrid Bergström</h3>
+    <p>Independent AI Ethics Consultant · Former OECD advisor on algorithmic governance and responsible AI deployment in enterprise settings</p>
+  </div>
+</div>
+</BaseLayout>
