@@ -1,12 +1,13 @@
 ---
 title: tes
-description: 
+description: "tes"
 publishDate: 2026-08-18
 outputFormat: Market Report
-researchQuestion: 
+researchQuestion: "tes"
 evidenceClasses:
+  - market-signals
 disclosure: No commercial relationship
-limitations: 
+limitations: "tes"
 featured: false
 status: Live
 ---
