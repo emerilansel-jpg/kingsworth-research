@@ -2,6 +2,8 @@
 title: tes
 description: "tes"
 publishDate: 2026-08-18
+author: tes
+category: tes
 outputFormat: Market Report
 researchQuestion: "tes"
 evidenceClasses:
