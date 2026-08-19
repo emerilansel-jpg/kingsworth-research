@@ -2,6 +2,7 @@
 title: tes
 description: tes
 publishDate: 2026-08-19
+author: tes
 outputFormat: Market Report
 researchQuestion: What is the best electrician service in Tampa in 2026?
 evidenceClasses:
