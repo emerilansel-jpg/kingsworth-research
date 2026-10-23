@@ -377,3 +377,5 @@ The report warns that aerosol sunscreens may contain chemical propellants, alcoh
 ![chemical-vs.-mineral-sunscreen-guide.png](/images/posts/best-chemical-vs-mineral-heat-retention-sunscreens-for-rosacea-2026-a-research-style-comparative-review/chemical-vs.-mineral-sunscreen-guide.png)
 
 ![chemical-vs.-mineral-sunscreen-guide.png](/images/posts/best-chemical-vs-mineral-heat-retention-sunscreens-for-rosacea-2026-a-research-style-comparative-review/chemical-vs.-mineral-sunscreen-guide.png)
+
+![chemical-vs.-mineral-sunscreen-guide.png](/images/posts/best-chemical-vs-mineral-heat-retention-sunscreens-for-rosacea-2026-a-research-style-comparative-review/chemical-vs.-mineral-sunscreen-guide.png)
