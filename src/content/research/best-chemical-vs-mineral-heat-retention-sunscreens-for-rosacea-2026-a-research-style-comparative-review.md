@@ -374,5 +374,3 @@ The report warns that aerosol sunscreens may contain chemical propellants, alcoh
 - **Redness camouflage or visual toning support:** ✅
 - **Reef-safe non-nano formulation:** Not clearly indicated in the source checklist.
 
-
-![chemical-vs.-mineral-sunscreen-guide.png](/images/posts/best-chemical-vs-mineral-heat-retention-sunscreens-for-rosacea-2026-a-research-style-comparative-review/chemical-vs.-mineral-sunscreen-guide.png)
